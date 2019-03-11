@@ -1,0 +1,11 @@
+c:\users\cm6\source\repos\IEnumerablenIEnumerator\IEnumerablenIEnumerator\bin\Debug\netcoreapp2.0\IEnumerablenIEnumerator.deps.json
+c:\users\cm6\source\repos\IEnumerablenIEnumerator\IEnumerablenIEnumerator\bin\Debug\netcoreapp2.0\IEnumerablenIEnumerator.runtimeconfig.json
+c:\users\cm6\source\repos\IEnumerablenIEnumerator\IEnumerablenIEnumerator\bin\Debug\netcoreapp2.0\IEnumerablenIEnumerator.runtimeconfig.dev.json
+c:\users\cm6\source\repos\IEnumerablenIEnumerator\IEnumerablenIEnumerator\bin\Debug\netcoreapp2.0\IEnumerablenIEnumerator.dll
+c:\users\cm6\source\repos\IEnumerablenIEnumerator\IEnumerablenIEnumerator\bin\Debug\netcoreapp2.0\IEnumerablenIEnumerator.pdb
+c:\users\cm6\source\repos\IEnumerablenIEnumerator\IEnumerablenIEnumerator\obj\Debug\netcoreapp2.0\IEnumerablenIEnumerator.csprojAssemblyReference.cache
+c:\users\cm6\source\repos\IEnumerablenIEnumerator\IEnumerablenIEnumerator\obj\Debug\netcoreapp2.0\IEnumerablenIEnumerator.csproj.CoreCompileInputs.cache
+c:\users\cm6\source\repos\IEnumerablenIEnumerator\IEnumerablenIEnumerator\obj\Debug\netcoreapp2.0\IEnumerablenIEnumerator.AssemblyInfoInputs.cache
+c:\users\cm6\source\repos\IEnumerablenIEnumerator\IEnumerablenIEnumerator\obj\Debug\netcoreapp2.0\IEnumerablenIEnumerator.AssemblyInfo.cs
+c:\users\cm6\source\repos\IEnumerablenIEnumerator\IEnumerablenIEnumerator\obj\Debug\netcoreapp2.0\IEnumerablenIEnumerator.dll
+c:\users\cm6\source\repos\IEnumerablenIEnumerator\IEnumerablenIEnumerator\obj\Debug\netcoreapp2.0\IEnumerablenIEnumerator.pdb
